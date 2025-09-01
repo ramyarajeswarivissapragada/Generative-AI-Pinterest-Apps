@@ -1,4 +1,4 @@
-# Generative AI Pinterest Apps
+# Generative AI using AWS PartyRock
 
 This repository contains two generative AI applications built using **AWS PartyRock**:
 
